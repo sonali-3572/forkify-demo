@@ -155,3 +155,7 @@ init();
 // 3. (git statue )  get status of all the files
 // 4. (git add -A)   to track all the files
 // 5. commit files (git commit -m 'Initial commit')
+// 6. to reverse commit (git reset --hard HEAD)
+// 7. (:Q )to quit
+// 8.( git branch new-feature) to create new branch
+// 9. (git checkout new-feature)  to switch to new branch
